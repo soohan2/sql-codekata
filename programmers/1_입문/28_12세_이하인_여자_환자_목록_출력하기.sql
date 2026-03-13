@@ -2,7 +2,7 @@
 -- 프로그래머스 입문 (⭐)
 -- 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/132201
 -- 작성자: 우수한
--- 작성일: 2026. 02. 21. 00:23:47
+-- 작성일: 2026. 03. 13. 09:56:36
 
 -- 코드를 입력하세요
 SELECT pt_name, pt_no, gend_cd, age,
